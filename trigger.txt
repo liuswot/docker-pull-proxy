@@ -1,1 +1,1 @@
-ubuntu/squid:latest crpi-a2tu0g5w6xdgnf9a.cn-chengdu.personal.cr.aliyuncs.com/workspacer/squid:latest
+semitechnologies/weaviate:1.19.0 crpi-a2tu0g5w6xdgnf9a.cn-chengdu.personal.cr.aliyuncs.com/workspacer/weaviate:1.19.0
