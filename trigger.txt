@@ -1,1 +1,1 @@
-langgenius/dify-sandbox:main-amd64 crpi-a2tu0g5w6xdgnf9a.cn-chengdu.personal.cr.aliyuncs.com/workspacer/dify-sandbox:main-amd64
+langgenius/dify-api:0.6.13 crpi-a2tu0g5w6xdgnf9a.cn-chengdu.personal.cr.aliyuncs.com/workspacer/dify-api:0.6.13
