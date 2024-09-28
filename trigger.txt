@@ -1,1 +1,1 @@
-langgenius/dify-api:main crpi-a2tu0g5w6xdgnf9a.cn-chengdu.personal.cr.aliyuncs.com/workspacer/langgenius/dify-api:main
+langgenius/dify-api:main crpi-a2tu0g5w6xdgnf9a.cn-chengdu.personal.cr.aliyuncs.com/workspacer/dify-api:main
