@@ -1,1 +1,1 @@
-nginx:latest crpi-a2tu0g5w6xdgnf9a.cn-chengdu.personal.cr.aliyuncs.com/workspacer/nginx:latest
+redis:6-alpine crpi-a2tu0g5w6xdgnf9a.cn-chengdu.personal.cr.aliyuncs.com/workspacer/redis:6-alpine
