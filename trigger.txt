@@ -1,1 +1,1 @@
-infiniflow/ragflow:v0.12.0-slim crpi-a2tu0g5w6xdgnf9a.cn-chengdu.personal.cr.aliyuncs.com/workspacer/ragflow:v0.12.0-slim
+infiniflow/ragflow:latest crpi-a2tu0g5w6xdgnf9a.cn-chengdu.personal.cr.aliyuncs.com/workspacer/ragflow:latest
